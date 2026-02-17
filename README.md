@@ -13,3 +13,5 @@ Backend: Robust API layer built for scalability and enterprise integration.
 Orchestration: Implements complex business logic via distributed workflow patterns.
 
 Data Integrity: Heavy focus on PostgreSQL optimization for complex financial data.
+
+Note: The source code for these projects is proprietary and remains in private repositories. These public repositories serve as architectural case studies and provide links to functional live demos.# property-management-showcase
